@@ -1,0 +1,993 @@
+[
+    {
+        "stock_symbol": "MEG",
+        "stock_name": "Megaworld Corporation",
+        "company_site": "https://www.megaworldcorp.com",
+        "company_address": "30th Floor, Alliance Global Tower, 36th Street cor. 11th Avenue, Uptown Bonifacio, Taguig City 1634, Metro Manila, Philippines",
+        "company_email": "investorrelations@megaworldcorp.com",
+        "company_phone": "63288886342",
+        "sector": "Property",
+        "industry": "Real Estate Development",
+        "key_executives": [
+            {
+                "name": "Andrew L. Tan",
+                "position": "Chairman"
+            },
+            {
+                "name": "Katherine L. Tan",
+                "position": "Director"
+            },
+            {
+                "name": "Kingson U. Sian",
+                "position": "Director"
+            },
+            {
+                "name":"Enrique Santos L. Sy",
+                "position": "Director"
+            },
+            {
+                "name": "Jesus B. Varela",
+                "position": "Lead Independent Director"
+            },
+            {
+                "name": "Cresencio P. Aquino",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Alejo L. Villanueva, Jr.",
+                "position": "Independent Director"
+            }
+        ]
+    },
+    {
+        "stock_symbol": "JGS",
+        "stock_name": "JG Summit Holdings, Inc.",
+        "company_site": "https://www.jgsummit.com.ph",
+        "company_address": "43/F Robinsons Equitable Tower, ADB Avenue corner Poveda St., Ortigas Center, Pasig City",
+        "company_email": "IR@jgsummit.com.ph",
+        "company_phone": "63286337631",
+        "sector": "Holding Firms",
+        "industry": "Holdings",
+        "key_executives": [
+            {
+                "name": "James L. Go",
+                "position": "Chairman"
+            },
+            {
+                "name": "Lance Y. Gokongwei",
+                "position": "Director"
+            },
+            {
+                "name": "Robina Gokongwei-Pe",
+                "position": "Director"
+            },
+            {
+                "name":"Patrick Henry C. Go",
+                "position": "Director"
+            },
+            {
+                "name": "Johnson Robert G. Go, Jr.",
+                "position": "Director"
+            },
+            {
+                "name": "Jose T. Pardo",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Renato T. De Guzman",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Antonio L. Go",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Artemio V. Panganiban",
+                "position": "Independent Director"
+            }
+        ]
+    },
+    {
+        "stock_symbol": "BDO",
+        "stock_name": "BDO Unibank, Inc.",
+        "company_site": "htpps://www.bdo.com.ph",
+        "company_address": "BDO Corporate Center, 7899 Makati Avenue, Makati City",
+        "company_email": "hrmd@bdo.com.ph; irandcorplan@bdo.com.ph",
+        "company_phone": "63288407000",
+        "sector": "Financials",
+        "industry": "Banking",
+        "key_executives": [
+            {
+                "name": "Teresita T. Sy",
+                "position": "Chiarperson"
+            },
+            {
+                "name": "Jesus A. Jacinto, Jr.",
+                "position": "Vice Chairman"
+            },
+            {
+                "name": "Nestor V. Tan",
+                "position": "Director"
+            },
+            {
+                "name":"Jones M. Castro, Jr.",
+                "position": "Director"
+            },
+            {
+                "name": "Christopher A. Bell-Knight",
+                "position": "Director"
+            },
+            {
+                "name": "Josefina N. Tan",
+                "position": "Director"
+            },
+            {
+                "name": "Dioscoro I. Ramos",
+                "position": "Lead Independent Director"
+            },
+            {
+                "name": "George T. Barcelon",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Jose F. Buenaventura",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Vicente S. Pérez, Jr.",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Vipul Bhagat",
+                "position": "Independent Director"
+            }
+        ]
+    },
+
+    {
+        "stock_symbol": "FGEN",
+        "stock_name": "First Gen Corporation",
+        "company_site": "https://www.firstgen.com.ph",
+        "company_address": "6F Rockwell Business Center, Tower 3, Ortigas Avenue, Pasig City, 1604",
+        "company_email": "rrhernandez@firstgen.com.ph",
+        "company_phone": "63233496400",
+        "sector": "Industrial",
+        "industry": "Electricity, Energey, Power & Water", 
+        "key_executives": [
+            {
+                "name": "Oscar M. Lopez",
+                "position": "Chairman Emeritus"
+            },
+            {
+                "name": "Federico R. Lopez",
+                "position": "Chairman"
+            },
+            {
+                "name": "Francis Giles B. Puno",
+                "position": "Director"
+            },
+            {
+                "name":"Richard Raymond B. Tantoco",
+                "position": "Director"
+            },
+            {
+                "name": "Peter D. Garrucho, Jr.",
+                "position": "Director"
+            },
+            {
+                "name": "Manuel L. Lopez, Jr.",
+                "position": "Director"
+            },
+            {
+                "name": "Elvira L. Bautista",
+                "position": "Director"
+            },
+            {
+                "name": "Cielito F. Habito",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Cielito F. Habito",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Edgar O. Chua",
+                "position": "Independent Director"
+            }
+        ]
+    },
+    {
+        "stock_symbol": "ICT",
+        "stock_name": "International Container Terminal Services, Inc.",
+        "company_site": "https://www.ictsi.com",
+        "company_address": "3/F ICTSI Administration Building, MICT South Access Road, Manila 1012",
+        "company_email": "info@ictsi.com",
+        "company_phone": "82454101",
+        "sector": "Services",
+        "industry": "Tranportation Services",
+        "key_executives": [
+            {
+                "name": "Enrique K. Razon, Jr",
+                "position": "Chairman"
+            },
+            {
+                "name": "Jose C. Ibazeta",
+                "position": "Director"
+            },
+            {
+                "name": "Stephen A. Paradies",
+                "position": "Director"
+            },
+            {
+                "name":"Stephen A. Paradies",
+                "position": "Director"
+            },
+            {
+                "name": "Cesar A. Buenaventura",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Carlos C. Ejercito",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Diosdado M. Peralta",
+                "position": "Independent Director"
+            }
+        ]
+    },
+    {
+        "stock_symbol": "ALI",
+        "stock_name": "Ayala Land, Inc.",
+        "company_site": "https:///www.ayalaland.com.ph",
+        "company_address": "31/F, Tower One and Exchange Plaza, Ayala Triangle, Ayala Avenue, Makati City",
+        "company_email": "investorrelations@ayalaland.com.ph",
+        "company_phone": "63279083111",
+        "sector": "Property",
+        "industry": "Property Development",
+        "key_executives": [
+            {
+                "name": "Fernando Zobel de Ayala",
+                "position": "Chairman"
+            },
+            {
+                "name": "Jaime Augusto Zobel de Ayala",
+                "position": "Vice Chairman"
+            },
+            {
+                "name": "Bernard Vincent O. Dy",
+                "position": "Director"
+            },
+            {
+                "name":"Antonino T. Aquino",
+                "position": "Director"
+            },
+            {
+                "name": "Arturo G. Corpuz",
+                "position": "Director"
+            },
+            {
+                "name": "Rizalina G. Mantaring",
+                "position": "Lead Independent Director"
+            },
+            {
+                "name": "Cesar V. Purisima",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Rex Ma. A. Mendoza",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Sherisa P. Nuesa",
+                "position": "Independent Director"
+            }
+        ]
+    },
+    {
+        "stock_symbol": "SMC",
+        "stock_name": "San Miguel Corporation",
+        "company_site": "https:///www.sanmiguel.com.ph",
+        "company_address": "40 San Miguel Avenue, Mandaluyong City, 1550 Metro Manila, Philippines",
+        "company_email": "smcl@sanmiguel.com.ph",
+        "company_phone": "63286323000",
+        "sector": "Holding Firms",
+        "industry": "Holding Firms",
+        "key_executives": [
+            {
+                "name": "Ramon S. Ang",
+                "position": "Vice Chairman"
+            },
+            {
+                "name": "John Paul L. Ang",
+                "position": "Director"
+            },
+            {
+                "name": "Aurora T. Calderon",
+                "position": "Director"
+            },
+            {
+                "name":"Joselito D. Campos, Jr.",
+                "position": "Director"
+            },
+            {
+                "name": "Jose C. de Venecia, Jr.",
+                "position": "Director"
+            },
+            {
+                "name": "Menardo R. Jimenez",
+                "position": "Director"
+            },
+            {
+                "name": "Estelito P. Mendoza",
+                "position": "Director"
+            },
+            {
+                "name": "Alexander J. Poblador",
+                "position": "Director"
+            },
+            {
+                "name": "Thomas A. Tan",
+                "position": "Director"
+            },
+            {
+                "name":"Ramon F. Villavicencio",
+                "position": "Director"
+            },
+            {
+                "name": "Iñigo Zobel",
+                "position": "Director"
+            },
+            {
+                "name": "Reynato S. Puno",
+                "position": "Lead Independent Director"
+            },
+            {
+                "name": "Teresita J. Leonardo-De Castro",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Diosdado M. Peralta",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Margarito B. Teves",
+                "position": "Independent Director"
+            }
+        ]
+    },
+    {
+        "stock_symbol": "TEL",
+        "stock_name": "PLDT Inc.",
+        "company_site": "https.//www.pldt.com",
+        "company_address": "Ramon Cojuangco Building, Makati Avenue, Makati City",
+        "company_email": "Pldt_ir_center@pldt.com.ph",
+        "company_phone": "88880686",
+        "sector": "Services",
+        "industry": "Telecommunications",
+        "key_executives": [
+            {
+                "name": "Manuel V. Pangilinan",
+                "position": "Chairman"
+            },
+            {
+                "name": "Alfredo S. Panlilio",
+                "position": "Director"
+            },
+            {
+                "name": "Manuel L. Argel, Jr.",
+                "position": "Director"
+            },
+            {
+                "name":"Helen Y. Dee",
+                "position": "Director"
+            },
+            {
+                "name": "Albert F. Del Rosario",
+                "position": "Director"
+            },
+            {
+                "name": "Ray C. Espinosa",
+                "position": "Director"
+            },
+            {
+                "name": "James L. Go",
+                "position": "Director"
+            },
+            {
+                "name": "Kazuyuki Kozu",
+                "position": "Director"
+            },
+            {
+                "name": "Naoki Wakai",
+                "position": "Director"
+            },
+            {
+                "name": "Marife B. Zamora",
+                "position": "Director"
+            },
+            {
+                "name": "Artemio V. Panganiban",
+                "position": "Lead Independent Director"
+            },
+            {
+                "name": "Bernido H. Liu",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Bernadine T. Siy",
+                "position": "Independent Director"
+            }
+        ]
+    },
+    {
+        "stock_symbol": "GLO",
+        "stock_name": "Globe Telecom, Inc.",
+        "company_site": "https://www.globe.com.ph",
+        "company_address": "The Globe Tower, 32nd Street corner 7th Avenue, Bonifacio Global City, Taguig",
+        "company_email": "ir@globetel.com.ph",
+        "company_phone": "63277302000",
+        "sector": "Services",
+        "industry": "Telecommunications",
+        "key_executives": [
+            {
+                "name": "Jaime Augusto Zobel de Ayala",
+                "position": "Chairman"
+            },
+            {
+                "name": "Fernando Zobel de Ayala",
+                "position": "Co-Vice Chairman"
+            },
+            {
+                "name": "Lew Yoong Keong Allen",
+                "position": "Co-Vice Chairman"
+            },
+            {
+                "name":"Delfin L. Lazaro",
+                "position": "Director"
+            },
+            {
+                "name": "Romeo L. Bernardo",
+                "position": "Director"
+            },
+            {
+                "name": "Cezar P. Consing",
+                "position": "Director"
+            },
+            {
+                "name": "Ng Kuo Pin",
+                "position": "Director"
+            },
+            {
+                "name": "Ernest L. Cu",
+                "position": "Director"
+            },
+            {
+                "name": "Rex Ma. A. Mendoza",
+                "position": "Lead Independent Director"
+            },
+            {
+                "name": "Saw Phaik Hwa",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Cirilo P. Noel",
+                "position": "Independent Director"
+            }
+        ]
+    },
+    {
+        "stock_symbol": "BLOOM",
+        "stock_name": "Bloomberry Resorts Corporation",
+        "company_site": "https://bloomberry.ph",
+        "company_address": "Solaire Executive Offices, Solaire Resort and Casino, Asean Ave., Entertainment City, Paranaque City",
+        "company_email": "rjventurina@bloomberry.ph",
+        "company_phone": "63288838920",
+        "sector": "Services",
+        "industry": "Casinos and Gaming",
+        "key_executives": [
+            {
+                "name": "Enrique K. Razon, Jr.",
+                "position": "Chairman"
+            },
+            {
+                "name": "Jose Eduardo J. Alarilla",
+                "position": "Vice Chairman"
+            },
+            {
+                "name": "Donato C. Almeda",
+                "position": "Vice Chairman for Construction and Regulatory Affairs"
+            },
+            {
+                "name":"Thomas Arasi",
+                "position": "Director"
+            },
+            {
+                "name": "Christian R. Gonzalez",
+                "position": "Director"
+            },
+            {
+                "name": "Octavio Victor R. Espiritu",
+                "position": "Independent Director"
+            }
+        ]
+    },
+
+    {
+        "stock_symbol": "RLC",
+        "stock_name": "Robinsons Land Corporation",
+        "company_site": "https://www.robinsonsland.com",
+        "company_address": "Level 2 Galleria Corporate Center EDSA cor. Ortigas Ave., Quezon City",
+        "company_email": "investor.relations@robinsonsland.com",
+        "company_phone": "63283971888",
+        "sector": "Property",
+        "industry": "Property",
+        "key_executives": [
+            {
+                "name": "James L. Go",
+                "position": "Chairman Emeritus"
+            },
+            {
+                "name": "Lance Y. Gokongwei",
+                "position": "Chairman"
+            },
+            {
+                "name": "Frederick D. Go",
+                "position": "Director"
+            },
+            {
+                "name":"Robina Y. Gokongwei-Pe",
+                "position": "Director"
+            },
+            {
+                "name": "Patrick Henry C. Go",
+                "position": "Director"
+            },
+            {
+                "name": "Johnson Robert G. Go, Jr.",
+                "position": "Director"
+            },
+            {
+                "name": "Roberto F. de Ocampo",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Omar Byron T. Mier",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Bienvenido S. Bautista",
+                "position": "Independent Director"
+            }
+        ]
+    },
+
+    {
+        "stock_symbol": "MER",
+        "stock_name": "Manila Electric Company",
+        "company_site": "https://www.meralco.com.ph",
+        "company_address": "Lopez Building, Ortigas Avenue, Barangay Ugong, Pasig City 1605",
+        "company_email": "investor.relations@meralco.com.ph",
+        "company_phone": "86328771",
+        "sector": "Industrial",
+        "industry": "Electricity, Energy, Power & Water",
+        "key_executives": [
+            {
+                "name": "Manuel V. Pangilinan",
+                "position": "Chairman"
+            },
+            {
+                "name": "Anabelle L. Chua",
+                "position": "Director"
+            },
+            {
+                "name": "Ray C. Espinosa",
+                "position": "Director"
+            },
+            {
+                "name": "Frederick D. Go",
+                "position": "Director"
+            },
+            {
+                "name": "James L. Go",
+                "position": "Director"
+            },
+            {
+                "name": "Lance Y. Gokongwei",
+                "position": "Director"
+            },
+            {
+                "name": "Jose Ma. K. Lim",
+                "position": "Director"
+            },
+            {
+                "name": "Victorico P. Vargas",
+                "position": "Director"
+            },
+            {
+                "name": "Lydia B. Echauz",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Artemio V. Panganiban",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Pedro O. Roxas",
+                "position": "Independent Director"
+            }
+        ]
+    },
+    {
+        "stock_symbol": "AC",
+        "stock_name": "Ayala Corporation",
+        "company_site": "https://www.ayala.com.ph",
+        "company_address": "34/F, Tower One and Exchange Plaza, Ayala Triangle, Ayala Avenue, Makati City",
+        "company_email": "acquery@ayala.com.ph",
+        "company_phone": "63279083000",
+        "sector": "Holding Firms",
+        "industry": "Holding Firms",
+        "key_executives": [
+            {
+                "name": "Jaime Augusto Zobel de Ayala",
+                "position": "Chairman"
+            },
+            {
+                "name": "Fernando Zobel de Ayala",
+                "position": "Vice Chairman"
+            },
+            {
+                "name": "Delfin L. Lazaro",
+                "position": "Director"
+            },
+            {
+                "name": "Keiichi Matsunaga",
+                "position": "Director"
+            },
+            {
+                "name": "Cezar P. Consing",
+                "position": "Director"
+            },
+            {
+                "name": "Antonio Jose U. Periquet",
+                "position": "Lead Independent Director"
+            },
+            {
+                "name": "Rizalina G. Mantaring",
+                "position": "Independent Director"
+            }
+        ]
+    },
+
+    {
+        "stock_symbol": "PGOLD",
+        "stock_name": "Puregold Price Club, Inc.",
+        "company_site": "https://www.puregold.com.ph",
+        "company_address": "No. 900 Romualdez Street, Paco, Manila",
+        "company_email": "",
+        "company_phone": "5233055",
+        "sector": "Srvices",
+        "industry": "Retail",
+        "key_executives": [
+            {
+                "name": "Lucio L. Co",
+                "position": "Chairman"
+            },
+            {
+                "name": "Susan P. Co",
+                "position": "Vice Chairman"
+            },
+            {
+                "name": "Ferdinand Vincent P. Co",
+                "position": "Director"
+            },
+            {
+                "name": "Leonardo B. Dayao",
+                "position": "Director"
+            },
+            {
+                "name": "Pamela Justine P. Co",
+                "position": "Director"
+            },
+            {
+                "name": "Jack E. Huang",
+                "position": "Director"
+            },
+            {
+                "name": "Edgardo G. Lacson",
+                "position": "Lead Independent Director"
+            },
+            {
+                "name": "Marilyn V. Pardo",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Jaime S. Dela Rosa",
+                "position": "Independent Director"
+            }
+        ]
+    },
+
+    {
+        "stock_symbol": "LTG",
+        "stock_name": "LT Group, Inc.",
+        "company_site": "https://www.ltg.com.ph",
+        "company_address": "11/F Unit 3 Bench Tower 30th Street corner Rizal Drive, Crescent Park West 5, Bonifacio Global City, Taguig City",
+        "company_email": "info@ltg.com.ph",
+        "company_phone": "88081266",
+        "sector": "Holding Firms",
+        "industry": "Holding Firms",
+        "key_executives": [
+            {
+                "name": "Lucio C. Tan",
+                "position": "Chairman"
+            },
+            {
+                "name": "Carmen K. Tan",
+                "position": "Vice Chairman"
+            },
+            {
+                "name": "Karlu T. Say",
+                "position": "Director"
+            },
+            {
+                "name": "Michael G. Tan",
+                "position": "Director"
+            },
+            {
+                "name": "Lucio C. Tan III",
+                "position": "Director"
+            },
+            {
+                "name": "Vivienne K. Tan",
+                "position": "Director"
+            },
+            {
+                "name": "Juanita T. Tan Lee",
+                "position": "Director"
+            },
+            {
+                "name": "Johnip G. Cua",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Mary G. Ng",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Wilfrido E. Sanchez",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Florencia G. Tarriela",
+                "position": "Independent Director"
+            }
+        ]
+    },
+
+    {
+        "stock_symbol": "MPI",
+        "stock_name": "Metro Pacific Investments Corporation",
+        "company_site": "https://www.mpic.com.ph",
+        "company_address": "9th Floor, Tower 1, Rockwell Business Center, Ortigas Avenue, Pasig City",
+        "company_email": "compliance@mpic.com.ph",
+        "company_phone": "88880888",
+        "sector": "Holding Firms",
+        "industry": "Holding Firms",
+        "key_executives": [
+            {
+                "name": "Manuel V. Pangilinan",
+                "position": "Chairman"
+            },
+            {
+                "name": "Alfred V. Ty",
+                "position": "Vice Chairman"
+            },
+            {
+                "name": "Jose Ma. K. Lim",
+                "position": "Director"
+            },
+            {
+                "name": "June Cheryl A. Cabal-Revilla",
+                "position": "Director"
+            },
+            {
+                "name": "Christopher H. Young",
+                "position": "Director"
+            },
+            {
+                "name": "Augusto P. Palisoc, Jr.",
+                "position": "Director"
+            },
+            {
+                "name": "Ramoncito S. Fernandez",
+                "position": "Director"
+            },
+            {
+                "name": "Ray C. Espinosa",
+                "position": "Director"
+            },
+            {
+                "name": "Francisco C. Sebastian",
+                "position": "Director"
+            },
+            {
+                "name": "Albert F. Del Rosario",
+                "position": "Director"
+            },
+            {
+                "name": "Rodrigo E. Franco",
+                "position": "Director"
+            },
+            {
+                "name": "Artemio V. Panganiban",
+                "position": "Lead Independent Director"
+            },
+            {
+                "name": "Oscar J. Hilado",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Pedro E. Roxas",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Roberto C. Yap, S.J.",
+                "position": "Independent Director"
+            }
+        ]
+    },
+    {
+        "stock_symbol": "AP",
+        "stock_name": "Aboitiz Power Corporation",
+        "company_site": "https://www.aboitizpower.com",
+        "company_address": "NAC Tower, 32nd Street, Bonifacio Global City, Taguig City, Metro Manila",
+        "company_email": "apc@aboitiz.com",
+        "company_phone": "0288862800",
+        "sector": "Industrial",
+        "industry": "Electricity, Energey, Power & Water",
+        "key_executives": [
+            {
+                "name": "Sabin M. Aboitiz",
+                "position": "Chairman"
+            },
+            {
+                "name": "Eric Ramon O. Recto",
+                "position": "Vice Chairman and Independent Director"
+            },
+            {
+                "name": "Luis Miguel O. Aboitiz",
+                "position": "Director"
+            },
+            {
+                "name": "Danel C. Aboitiz",
+                "position": "Director"
+            },
+            {
+                "name": "Emmanuel V. Rubio",
+                "position": "Director"
+            },
+            {
+                "name": "Edwin R. Bautista",
+                "position": "Director"
+            },
+            {
+                "name": "Toshiro Kudama",
+                "position": "Director"
+            },
+            {
+                "name": "Satoshi Yajima",
+                "position": "Director"
+            }
+        ]
+    },
+    {
+        "stock_symbol": "RRHI",
+        "stock_name": "Robinsons Retail Holdings, Inc.",
+        "company_site": "https://www.robinsonsretailholdings.com.ph",
+        "company_address": "43rd Floor, Robinsons Equitable Tower, ADB Avenue corner Poveda Sts., Ortigas Center, Pasig City, Metro Manila",
+        "company_email": "gina.dipaling@robinsonsretail.com.ph",
+        "company_phone": "63286350751",
+        "sector": "Services",
+        "industry": "Retail",
+        "key_executives": [
+            {
+                "name": "Lance Y. Gokongwei",
+                "position": "Chairman"
+            },
+            {
+                "name": "James L. Go",
+                "position": "Vice Chairman"
+            },
+            {
+                "name": "Robina Gokongwei Pe",
+                "position": "Director"
+            },
+            {
+                "name": "Ian McLeod",
+                "position": "Director"
+            },
+            {
+                "name": "Choo Peng Chee",
+                "position": "Director"
+            },
+            {
+                "name": "Antonio L. Go",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Rodolfo P. Ang",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Cirilo P. Noel",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Enrico S. Cruz",
+                "position": "Independent Director"
+            }
+        ]
+    },
+
+    {
+        "stock_symbol": "URC",
+        "stock_name": "Universal Robina Corporation",
+        "company_site": "https://www2.urc.com.ph",
+        "company_address": "8th Floor, Tera Tower, Bridgetowne, E. Rodriguez, Jr. Avenue (C5 Road), Ugong Norte, Quezon City, Metro Manila",
+        "company_email": "IR@urc.com.ph",
+        "company_phone": "63286337631",
+        "sector": "Industrial",
+        "industry": "Food, Beverage & Tobacco",
+        "key_executives": [
+            {
+                "name": "James L. Go",
+                "position": "Chairman Emeritus"
+            },
+            {
+                "name": "Lance Y. Gokongwei",
+                "position": "Chairman"
+            },
+            {
+                "name": "Patrick Henry C. Go",
+                "position": "Director"
+            },
+            {
+                "name": "Johnson Robert G. Go, Jr.",
+                "position": "Director"
+            },
+            {
+                "name": "Irwin C. Lee",
+                "position": "Director"
+            },
+            {
+                "name": "Cesar V. Purisima",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Rizalina G. Mantaring",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Christine Marie B. Angco",
+                "position": "Independent Director"
+            },
+            {
+                "name": "Antonio Jose U. Periquet, Jr.",
+                "position": "Independent Director"
+            }
+        ]
+    },
+
+    {
+        "stock_symbol": "PSEI",
+        "stock_name": "Philippine Stock Exchange Index",
+        "company_site": "https://edge.pse.com.ph/",
+        "company_address": "6/F PSE Tower 5th Avenue corner 28th Street Bonifacio Global City, Taguig City, Philippines 1634",
+        "company_email": "info@pse.com.ph",
+        "company_phone": "63288764888",
+        "sector": "Index",
+        "industry": "Index",
+        "key_executives": []
+    }
+]

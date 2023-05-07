@@ -1,0 +1,28 @@
+version: "3.8"
+name: "alamSYS"
+services:
+  api:
+    container_name: "alamAPI"
+    build: ./alamAPI
+    ports:
+      - 8000:8000
+    env_file:
+      - db.env
+  mongo_db:
+    container_name: "alamDB"
+    image: mongo:4.0
+    ports:
+      - 27017:27017
+    volumes:
+      - alamAPI_DB:/data/db
+    env_file:
+      - db.env
+  preprocessor:
+    container_name: "alamPREPROCESSOR"
+    build: ./preprocessor
+    env_file:
+      - preprocessor.env
+    volumes:
+      - alamAPI_DB:/data/db
+volumes:
+  alamAPI_DB: 

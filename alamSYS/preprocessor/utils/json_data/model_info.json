@@ -1,0 +1,12 @@
+[
+    {
+        "model_name": "DMD-LSTM",
+        "model_description": "Implemented dynamic modes from Dynamic Mode Decomposition (DMD) to the training input layer of LSTM",
+        "model_scores": {
+            "average_mse": "1993.39569",
+            "average_rmse": "17.67005",
+            "average_mae": "12.03009",
+            "average_mape": "0.035395"
+        }
+    }
+]
